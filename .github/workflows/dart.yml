@@ -44,6 +44,22 @@ jobs:
 
 
 
+  # update by me start
+
+# update in dart.yml if needed
+#   java-version: '17'
+
+
+# update setting gradle
+#   id "com.android.application" version "8.1.4" apply false
+# update applevel / buildgradle
+#  targetSdk = 35
+# update gradlewarpper.properties
+# distributionUrl=https\://services.gradle.org/distributions/gradle-8.2-all.zip
+
+# end
+
+
 
 # push to master, main, develop
 # pull request on main master

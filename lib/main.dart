@@ -47,7 +47,6 @@ class _MyHomePageState extends State<MyHomePage> {
     receivePort.listen(
       (message) {
 
-        print("mdffdfdf : ${message}");
       },
     );
   }
